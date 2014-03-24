@@ -1,5 +1,5 @@
-CS Threat Inspector manager solution overview 
-==============================================
+CS Threat Inspector Manager
+============================
 
 The Threat Inspector is an advanced  stand-alone malware analysis and memory dump forensic tool .
 The solution provides a straight forward way to analyze and run forensics actions , such as memory dump analysis on the suspicious infected workstation in the organization network .
